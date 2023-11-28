@@ -1,0 +1,12 @@
+@font-face {
+    font-family: mikolaj;
+    src: url(mikolaj.ttf);
+  }
+  
+body {
+    font-family: mikolaj;
+    font-size: 300%;
+    text-align: center;
+    background-color: red;
+    color: white;
+  }
